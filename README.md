@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @victorsmoreschi, I am an undergrad at Economics and in the last 3 years (2020-2023) I have been studying corporate finance. Nowadays I work at an Asset Backed Investment Fund, but with the help of a professor, Dimitri Bianco and an internal analysis for myself concluded that Quant Finance is the best fit for what I would like for my future. In this way, I started studying econometrics and quickly I realized that other knowledges would be needed, so I am trying to learn econometrics while getting better at math and programming.
-
+- 👋 Hi, I’m @victorsmoreschi, I have interest in Quantitative Finance, Econometrics and Macroeconomics.
